@@ -3,6 +3,26 @@
     {
       "id": 1,
       "name": "Myra"
+    },
+    {
+      "name": "Juanita Goyette",
+      "id": 2
+    },
+    {
+      "name": "Courtney Bernhard",
+      "id": 3
+    },
+    {
+      "name": "Mr. Grant Friesen",
+      "id": 4
+    },
+    {
+      "name": "Estelle Pfeffer",
+      "id": 5
+    },
+    {
+      "name": "Gayle Becker",
+      "id": 6
     }
   ],
   "albums": [],
