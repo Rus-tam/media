@@ -1,44 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Desiree Lowe",
+      "id": 1
     },
     {
-      "name": "Juanita Goyette",
+      "name": "Ben Fahey",
       "id": 2
     },
     {
-      "name": "Courtney Bernhard",
+      "name": "Gertrude Stehr",
       "id": 3
     },
     {
-      "name": "Mr. Grant Friesen",
+      "name": "Jamie Skiles",
       "id": 4
     },
     {
-      "name": "Estelle Pfeffer",
+      "name": "Eleanor Hirthe",
       "id": 5
-    },
-    {
-      "name": "Gayle Becker",
-      "id": 6
-    },
-    {
-      "name": "Jason Marks",
-      "id": 7
-    },
-    {
-      "name": "Meghan Legros",
-      "id": 8
-    },
-    {
-      "name": "Deanna Kautzer",
-      "id": 9
-    },
-    {
-      "name": "Alexander Murray",
-      "id": 10
     }
   ],
   "albums": [],
