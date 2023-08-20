@@ -1,28 +1,24 @@
 {
   "users": [
     {
-      "name": "Desiree Lowe",
+      "name": "Mathew Roob",
       "id": 1
     },
     {
-      "name": "Ben Fahey",
+      "name": "Amos Lueilwitz",
       "id": 2
     },
     {
-      "name": "Gertrude Stehr",
+      "name": "Beatrice Kirlin",
       "id": 3
     },
     {
-      "name": "Jamie Skiles",
+      "name": "Lloyd Casper",
       "id": 4
     },
     {
-      "name": "Eleanor Hirthe",
+      "name": "Bradford Cormier",
       "id": 5
-    },
-    {
-      "name": "Margie Gerhold III",
-      "id": 6
     }
   ],
   "albums": [],
