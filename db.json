@@ -23,16 +23,6 @@
   ],
   "albums": [
     {
-      "id": 12235,
-      "title": "Hiking trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Refined Wooden Pants",
-      "id": 12236
-    },
-    {
       "userId": 1,
       "title": "Luxurious Cotton Sausages",
       "id": 12237
